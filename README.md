@@ -1,6 +1,6 @@
 # Exercise
 
-This is an Android **exercise** application. It fetches a list of items from a public API using Retrofit. The app makes use of as nested `RecyclerView` to present the grouped items. 
+This is an Android **exercise** application. It fetches a list of items from a public API using Retrofit. The app makes use of a nested `RecyclerView` to present the grouped items. 
 
 ## Screenshots
 
